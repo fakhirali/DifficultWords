@@ -1,4 +1,5 @@
-A
+a cappella without accompaniment
+a priori reasoning based on general principles
 aback unexpected, surprised
 abacus counting device
 abandon desert, forsake
@@ -190,7 +191,8 @@ amoral without morals
 amorous loving, sexual
 amorphous shapeless
 amortize pay by installments
-amphibious able to operate in water and land
+amphibious able to operate in water
+and land
 amphitheater oval-shaped theater
 amuck murderous frenzy
 amulet charm, talisman
@@ -361,7 +363,6 @@ awry crooked
 axiom self-evident truth
 aye affirmative vote
 azure sky blue
-B
 babbittry smugness
 bacchanal orgy, drunken celebration
 badger pester
@@ -497,7 +498,6 @@ burgeon sprout
 burlesque farce
 burly husky
 buttress support
-C
 cabal a group of conspirators
 cabaret night club
 cache hiding place
@@ -856,7 +856,6 @@ cyclone storm
 cynical scornful of the motives or sincerity of others
 cynosure celebrity, center of attention
 czar Russian emperor
-D
 dab touch lightly
 dais platform
 dally procrastinate, linger
@@ -1124,7 +1123,6 @@ dupe one who is easily trick, victim
 duplicity deceit, treachery
 duress coercion
 dynamic energetic
-E
 ebb recede
 ebullient exuberant
 eccentric odd, weird
@@ -1371,7 +1369,6 @@ extrude force out
 exuberant joyous
 exude emit
 exult rejoice
-F
 fabrication a lie
 facade mask, front of a building
 facet aspect
@@ -1499,7 +1496,6 @@ furor commotion
 furtive stealthy
 fusillade bombardment
 futile hopeless
-G
 gaffe embarrassing mistake
 gainful profitable
 gainsay contradict
@@ -1567,7 +1563,6 @@ gullible easily deceived
 gusto great enjoyment
 guttural throaty
 gyrate whirl
-H
 habitat natural environment
 habituate accustom
 hackneyed trite
@@ -1649,7 +1644,6 @@ hypertension elevated blood pressure
 hypocritical deceiving, two-faced
 hypoglycemic low blood sugar
 hypothermia low body temperature
-I
 ibidem in the same place
 ichthyology study of fish
 iconoclast one who rails against sacred institutions
@@ -1761,7 +1755,7 @@ incognito disguised
 incommunicado unable to communicate with others
 incomparable peerless
 incompatibility inability to live
-in harmony expressed in the capitalized pair. Answers are on page 101.
+in harmony
 inconceivable unthinkable
 incongruous out of place, absurd
 inconsiderate thoughtless, insensitive
@@ -1925,7 +1919,6 @@ irrevocable cannot be rescinded
 isosceles having two equal sides
 itinerant wandering
 itinerary route
-J
 jabberwocky nonsense
 jaded spent, bored with one’s situation
 jargon specialized vocabulary
@@ -1951,7 +1944,6 @@ jurisprudence law
 justify excuse, mitigate
 juvenescent making young, growing out of infancy and into childhood
 juxtapose to place side by side
-K
 kaleidoscope series of changing events
 keen of sharp mind
 ken purview, range of comprehension
@@ -1967,9 +1959,8 @@ knead massage, to fold, press, and stretch a substance into a uniform mass
 knell sound of a bell
 kowtow behave obsequiously
 kudos acclaim
-L
 labyrinth maze
-lacerate tear, cut expressed in the capitalized pair. Answers are on page 101.
+lacerate tear, cut
 lachrymose tearful
 lackey servant
 laconic brief, terse
@@ -2054,8 +2045,7 @@ lurid ghastly, sensational
 luster gloss,sheen
 luxuriant lush, lavish
 lynch to execute by hanging without a trial
-M
-macabre gruesome cunning
+macabre gruesome
 machination plot
 macrobiosis longevity
 macroscopic visibly large
@@ -2241,7 +2231,6 @@ myriad innumerable
 myrmidons loyal followers
 mystique mystery, aura
 mythical fictitious
-N
 nadir lowest point
 narcissism self-love
 narrate tell, recount
@@ -2306,7 +2295,6 @@ nullity nothingness
 numismatics coin collecting
 nurture nourish, foster
 nymph goddess
-O
 oaf awkward person
 obdurate unyielding, hardhearted
 obeisance homage, deference
@@ -2384,7 +2372,7 @@ oration speech
 orator speaker
 orb sphere
 orchestrate organize
-ordain appoint expressed in the capitalized pair. Answers are on page 101.
+ordain appoint
 orderly neat, arranged
 ordinance law
 ordnance artillery
@@ -2411,7 +2399,6 @@ overweening arrogant, forward
 overwhelm overpower
 overwrought overworked, highstrung
 ovum egg, cell
-P
 pachyderm elephant
 pacifist one who opposes all violence
 pacify appease
@@ -2596,7 +2583,7 @@ philanthropic charitable
 philanthropist altruist
 philatelist stamp collector
 philippic invective
-philosophical contemplative expressed in the capitalized pair. Answers are on page 101.
+philosophical contemplative
 phlegmatic sluggish
 phobia fear
 phoenix rebirth
@@ -2812,7 +2799,7 @@ prosaic uninspired, flat
 proscenium platform, rostrum
 proscribe prohibit
 proselytize recruit, convert
-prosody study of poetic structure expressed in the capitalized pair. Answers are on page 102.
+prosody study of poetic structure
 prospective expected, imminent
 prospectus brochure
 prostrate supine
@@ -2889,7 +2876,6 @@ putsch a sudden attempt to overthrow a government
 pygmy dwarf
 pyrotechnics fireworks
 pyrrhic a battle won with unacceptable losses
-Q
 quack charlatan
 quadrennial occurring every four years
 quadrille square dance
@@ -2930,7 +2916,6 @@ quizzical odd, questioning
 quorum the minimum number people who must be present to hold a meeting
 quota a share or proportion
 quotidian daily
-R
 rabble crowd
 rabid mad, furious
 racketeer gangster, swindler
@@ -3023,7 +3008,7 @@ refurbish remodel, renovate
 refute disprove, contradict
 regal royal
 regale entertain
-regalia emblems expressed in the capitalized pair. Answers are on page 102.
+regalia emblems
 regime a government
 regiment infantry unit
 regrettable lamentable, unfortunate
@@ -3177,7 +3162,6 @@ rummage hunt, grope
 runel stream
 ruse trick
 rustic rural
-S
 sabbatical vacation
 saber sword
 sabotage treason, destruction
@@ -3236,7 +3220,7 @@ scabrous difficult
 scant inadequate, meager
 scapegoat one who takes blame for others
 scarify criticize
-scathe injure, denounce expressed in the capitalized pair. Answers are on page 102.
+scathe injure, denounce
 scepter a rod, staff
 scheme plot, system, diagram
 schism rift
@@ -3453,7 +3437,7 @@ squall rain storm
 squander waste
 squelch crush, stifle
 stagnant stale, motionless
-staid demure, sedate expressed in the capitalized pair. Answers are on page 102.
+staid demure, sedate
 stalwart pillar, strong, loyal
 stamina vigor, endurance
 stanch loyal
@@ -3595,7 +3579,6 @@ synod council
 synopsis brief summary
 synthesis combination
 systole heart contraction
-T
 tabernacle temple
 table postpone
 tableau scene, backdrop
@@ -3753,7 +3736,6 @@ twinge pain
 tyrannical dictatorial
 tyranny oppression
 tyro beginner
-U
 ubiquitous omnipresent, pervasive
 ulterior hidden, covert
 ultimatum demand
@@ -3820,7 +3802,6 @@ utilitarian pragmatic, useful
 utopia paradise
 utter complete
 uxorious a doting husband
-V
 vacillate waver
 vacuous inane, empty
 vagary whim
@@ -3899,7 +3880,6 @@ vouchsafe confer, bestow
 vulgarity obscenity
 vulnerable susceptible
 vulpine fox-like, cunning
-W
 wager bet
 waggish playful
 waive forego
@@ -3940,16 +3920,13 @@ wretched miserable
 writ summons, court order
 writhe contort, thrash about
 wry twisted, ironic sense of humor
-X
 xenophillic attraction to strangers
 xenophobia fear of foreigners
 xylophone musical percussion instrument
-Y
 yarn story, tale
 yearn desire strongly
 yen desire, yearning
 yore long ago
-Z
 zeal earnestness, passion
 zealot fanatic
 zenith summit
